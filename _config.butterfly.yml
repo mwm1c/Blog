@@ -15,18 +15,16 @@ menu:
    实验室||fas fa-bug:
       网站统计: /census/ || fas fa-poll
       免费图床: https://img2.tianli0.top || fas fa-images
-      Music: https://music.tianli0.top|| fas fa-music
-      网易云音乐api: https://music.api.tianli0.top|| fas fa-music
       时光邮局: https://mail.tianli0.top/ || fas fa-envelope
       随机动漫壁纸: https://img.api.tianli0.top || fas fa-images
       一言: https://y.tianli0.top || fas fa-code
       套壳网盘: https://cloud.tianli0.top || fas fa-cloud
       天翼网盘直链: https://ty.tianli0.top || fas fas fa-cloud-download-alt
-   友情链接: /link/ || fas fa-link
-   朋友圈: /fcircle/ || fa fa-puzzle-piece
-   留言板: /comments/ || fas fa-comments
-   说说: /bber/ || fas fa-comment
-   关于: /About/ || fas fa-heart
+   # 友情链接: /link/ || fas fa-link
+   # 朋友圈: /fcircle/ || fa fa-puzzle-piece
+   # 留言板: /comments/ || fas fa-comments
+   # 说说: /bber/ || fas fa-comment
+   # 关于: /About/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: true
@@ -94,7 +92,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://img1.tianli0.top/logo.png
+  img: 
   effect: false
 
 # The banner image of home page
@@ -138,7 +136,7 @@ cover:
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
-  flink: /img/friend_404.gif
+  flink: /img/friend_404.jpg
   post_page: /img/404.jpg
 
 # A simple 404 page
