@@ -42,8 +42,11 @@
     "live2d-widget-model-shizuku": "^1.0.5"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^3.10.0",
     "gulp-htmlclean": "^2.7.22",
     "gulp-imagemin": "^7.1.0",
-    "hexo-generator-baidu-sitemap": "^0.1.9"
+    "hexo-generator-baidu-sitemap": "^0.1.9",
+    "typescript": "^4.6.4",
+    "wrangler": "^2.0.3"
   }
 }
