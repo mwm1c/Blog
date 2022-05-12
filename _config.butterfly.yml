@@ -842,17 +842,17 @@ fcircle:
 
 # HexoPlusPlus Talk
 # see https://hexoplusplus.js.org
-hpptalk:
-  enable: false 
-  domain: hpp.tianli.workers.dev
-  path:
-  limit:
-  start:
-  js:
-  css:
-  option:
-  front_matter: 
-   top_img: transparent
+# hpptalk:
+#   enable: false 
+#   domain: hpp.tianli.workers.dev
+#   path:
+#   limit:
+#   start:
+#   js:
+#   css:
+#   option:
+#   front_matter: 
+#    top_img: transparent
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline

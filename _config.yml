@@ -4,7 +4,7 @@
 
 # Site
 title: MWM1C's blog
-subtitle: tianli-blog.club
+subtitle: MWM1C-blog.club
 description: "以管窥天，以蠡测海"
 keywords: MWM1C
 author: MWM1C
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://tianli-blog.club/
+url: https://blog-of-mwm1c.vercel.app/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -182,7 +182,7 @@ encrypt: # hexo-blog-encrypt
 githubcalendar:
   enable: true
   enable_page: /
-  user: TIANLI0
+  user: mwm1c
   layout:
     type: id
     name: recent-posts
