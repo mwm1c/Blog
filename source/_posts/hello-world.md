@@ -4,7 +4,9 @@ cover: https://ae01.alicdn.com/kf/H355adba4500642949f3d43d001b83ac3b.jpg
 tags: hexo
 date: 2022-05-13 00:00:00
 ---
-欢迎来到 [MWM1C's blog](blog-of-mwm1c.vercel.app)! 这是一个基于hexo搭建的博客。
+> 本文转载自：https://tianli-blog.club/2021/01/01/hello-world/
+
+欢迎来到 [MWM1C's blog](https://blog-of-mwm1c.vercel.app/)! 这是一个基于hexo搭建的博客。
 ## Quick Start
 
 ### Create a new post
