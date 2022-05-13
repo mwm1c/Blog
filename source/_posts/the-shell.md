@@ -1,5 +1,7 @@
 ---
 title: The shell
+cover: https://s1.ax1x.com/2022/05/13/OrGdfO.jpg
+tags: Operating System
 ---
 
 哔哩哔哩：[【中字】The Missing Semester 第1讲 - 课程概览与 Shell - MIT 公开课(2020)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Eo4y1d7KZ)

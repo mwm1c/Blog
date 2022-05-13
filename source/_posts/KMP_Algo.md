@@ -1,5 +1,8 @@
 ---
 title: KMP算法（配图解释）
+cover: https://s1.ax1x.com/2022/05/13/Or80Ln.jpg
+tags: Algorithm
+date: 2022-05-13
 ---
 
 未经改进的KMP代码：
