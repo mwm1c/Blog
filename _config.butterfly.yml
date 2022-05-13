@@ -20,11 +20,6 @@ menu:
       一言: https://y.tianli0.top || fas fa-code
       套壳网盘: https://cloud.tianli0.top || fas fa-cloud
       天翼网盘直链: https://ty.tianli0.top || fas fas fa-cloud-download-alt
-   # 友情链接: /link/ || fas fa-link
-   # 朋友圈: /fcircle/ || fa fa-puzzle-piece
-   # 留言板: /comments/ || fas fa-comments
-   # 说说: /bber/ || fas fa-comment
-   # 关于: /About/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: true
@@ -190,17 +185,6 @@ post_copyright:
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-# Sponsor/reward
-reward:
-  enable: true
-  QR_code:
-     - img: https://img1.tianli0.top/wechat.png
-       link: https://img1.tianli0.top/wechat.png
-       text: wechat
-     - img: https://img1.tianli0.top/alipay.jpg
-       link: https://img1.tianli0.top/alipay.jpg
-       text: alipay
-
 # Related Articles
 related_post:
   enable: true
@@ -267,14 +251,14 @@ disqus:
 # Alternative Disqus - Render comments with Disqus API
 # DisqusJS 評論系統，可以實現在網路審查地區載入 Disqus 評論列表，兼容原版
 # https://github.com/SukkaW/DisqusJS
-disqusjs:
-  shortname:
-  siteName:
-  apikey:
-  api:
-  nocomment: # display when a blog post or an article has no comment attached
-  admin:
-  adminLabel:
+# disqusjs:
+#   shortname:
+#   siteName:
+#   apikey:
+#   api:
+#   nocomment: # display when a blog post or an article has no comment attached
+#   admin:
+#   adminLabel:
 
 # livere (來必力)
 # https://www.livere.com/
@@ -315,12 +299,12 @@ valine:
 
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
-waline:
-  serverURL: https://waline.tianli-blog.club 
-  avatar: monsterid # gravatar style https://zh-tw.gravatar.com/site/implement/images/#default-image
-  emojiCDN: # emoji CDN
-  bg: /image/comment_bg.png # waline background
-  option:
+# waline:
+#   serverURL: https://waline.tianli-blog.club 
+#   avatar: monsterid # gravatar style https://zh-tw.gravatar.com/site/implement/images/#default-image
+#   emojiCDN: # emoji CDN
+#   bg: /image/comment_bg.png # waline background
+#   option:
 
 # utterances
 # https://utteranc.es/
@@ -646,7 +630,7 @@ aside:
       link: http://github.com/mwm1c
   card_announcement:
     enable: true
-    content: 欢迎来到萌新的博客<br>此网站开源<a href="https://github.com/TIANLI0/BF-OK">仓库</a><br>
+    content: 欢迎来到萌新的博客<br>此网站开源 <a href="https://github.com/TIANLI0/BF-OK">仓库</a><br>
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -689,25 +673,25 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 1/1/2021 00:00:00
+  publish_date: 5/12/2022 00:00:00
 
 # Aside widget - Newest Comments
-newest_comments:
-  enable: true
-  sort_order: # Don't modify the setting unless you know how it works
-  limit: 4
-  avatar: true
-  # You can only choose one, or neither
-  valine: false
-  github_issues:
-    enable: false
-    repo:
-  disqus:
-    enable: false
-    forum:
-    api_key:
-  twikoo: true
-  waline: false
+# newest_comments:
+#   enable: true
+#   sort_order: # Don't modify the setting unless you know how it works
+#   limit: 4
+#   avatar: true
+#   # You can only choose one, or neither
+#   valine: false
+#   github_issues:
+#     enable: false
+#     repo:
+#   disqus:
+#     enable: false
+#     forum:
+#     api_key:
+#   twikoo: true
+#   waline: false
 
 # Bottom right button (右下角按鈕)
 # --------------------------------------
