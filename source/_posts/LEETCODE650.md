@@ -2,7 +2,7 @@
 title: 只有两个键的键盘
 cover: https://i.imgtg.com/2022/05/14/zXzNj.jpg
 tags: leetcode
-date: 2021-09-21
+date: 2021-09-19
 ---
 
 > 题目链接： https://leetcode.cn/problems/2-keys-keyboard/

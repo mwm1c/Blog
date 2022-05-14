@@ -2,7 +2,7 @@
 title: 相交链表
 cover: https://i.imgtg.com/2022/05/14/zXxax.png
 tags: leetcode
-date: 2021-09-21
+date: 2021-09-11
 ---
 > 题目链接：https://leetcode.cn/problems/intersection-of-two-linked-lists/
 
