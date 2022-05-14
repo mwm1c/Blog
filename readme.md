@@ -1,4 +1,4 @@
-# 本网站的部署以及教程全部转载于https://github.com/TIANLI0/BF-OK/
+> 本网站的部署以及教程全部转载于https://github.com/TIANLI0/BF-OK/
 
 # 部署教程
 
