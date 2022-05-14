@@ -1,6 +1,6 @@
 ---
 title: The shell
-cover: https://s1.ax1x.com/2022/05/13/OrGdfO.jpg
+cover: https://i.imgtg.com/2022/05/14/z8gJL.jpg
 tags: Operating System
 ---
 
